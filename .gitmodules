@@ -1,0 +1,3 @@
+[submodule "bash-websocket-server"]
+	path = bash-websocket-server
+	url = git@github.com:VeryBueno/bash-websocket-server.git
